@@ -1,0 +1,1 @@
+export const  CHANGE_COMIC_CONTENT = 'content/CHANGE_COMIC_CONTENT';
