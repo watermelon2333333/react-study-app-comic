@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-study-app-comic/static/css/main.6527052b.css",
+    "main.js": "/react-study-app-comic/static/js/main.36091a98.js",
+    "static/media/load.webp": "/react-study-app-comic/static/media/load.dbf7bd049183cb0b09d7.webp",
+    "index.html": "/react-study-app-comic/index.html",
+    "main.6527052b.css.map": "/react-study-app-comic/static/css/main.6527052b.css.map",
+    "main.36091a98.js.map": "/react-study-app-comic/static/js/main.36091a98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6527052b.css",
+    "static/js/main.36091a98.js"
+  ]
+}
