@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-study-app-comic/static/css/main.3e34a09e.css",
-    "main.js": "/react-study-app-comic/static/js/main.20c698ae.js",
+    "main.js": "/react-study-app-comic/static/js/main.e0034835.js",
     "static/media/load.webp": "/react-study-app-comic/static/media/load.dbf7bd049183cb0b09d7.webp",
     "index.html": "/react-study-app-comic/index.html",
     "main.3e34a09e.css.map": "/react-study-app-comic/static/css/main.3e34a09e.css.map",
-    "main.20c698ae.js.map": "/react-study-app-comic/static/js/main.20c698ae.js.map"
+    "main.e0034835.js.map": "/react-study-app-comic/static/js/main.e0034835.js.map"
   },
   "entrypoints": [
     "static/css/main.3e34a09e.css",
-    "static/js/main.20c698ae.js"
+    "static/js/main.e0034835.js"
   ]
 }
